@@ -1,0 +1,28 @@
+Header
+Navbar
+Content
+Footer
+
+Content is created using Class component, the rest
+is by using Functional Component.
+
+Tags:
+1. <hr/>  -  horizontal line
+2. <br>  - break
+
+Types of Export:
+1. default
+2. named
+
+
+Header details
+https://www.w3schools.com/howto/howto_css_responsive_header.asp
+
+
+ROUTING
+
+react-router-dom    //locally
+
+npm i -s react-router-dom
+or
+npm install --save react-router-dom
